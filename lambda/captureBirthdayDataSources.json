@@ -1,0 +1,10 @@
+{
+    "text": {
+        "start": "EXAMPLE",
+        "middle": "",
+        "end": "April 12th 2006"
+    },
+    "assets": {
+        "cake": "https://github.com/alexa/skill-sample-nodejs-first-apl-skill/blob/master/modules/assets/alexaCake_960x960.png?raw=true"
+    }
+}
